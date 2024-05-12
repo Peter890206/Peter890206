@@ -48,4 +48,4 @@ Welcome to my GitHub profile! Here’s a bit about me and my work:
 - Proficient in various Linux commands, with all projects developed exclusively on Linux systems.
 
 ## 🏆 Recent Achievements
-- **Conference Paper:** "Combining Old School Autoencoder with Cotracker for Superior Low-Cost Skin Feature Tracking" accepted at ICIEA24. [Acceptance Confirmation](link-to-image-or-email)
+- **Conference Paper:** "Combining Old School Autoencoder with Cotracker for Superior Low-Cost Skin Feature Tracking" accepted at ICIEA24. ![Acceptance Confirmation](conference_paper_accepted.png)
