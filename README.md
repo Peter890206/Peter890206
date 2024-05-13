@@ -44,3 +44,6 @@ I am an optimistic person who values good relationships with my colleagues.
 
 # 🏆 Recent Achievements
 - **Conference Paper:** "Combining Old School Autoencoder with Cotracker for Superior Low-Cost Skin Feature Tracking" accepted at ICIEA24. [Acceptance Confirmation](https://github.com/Peter890206/Peter890206/blob/main/conference_paper_accepted.png)
+
+# :computer: Projects
+- **Thesis Project:** [Skin Feature Tracking Using CoTracker Combined with Deep Feature Encoding to Digitalize UPDRS Assessment](https://github.com/Peter890206/Skin-Feature-Tracking).
