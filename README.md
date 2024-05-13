@@ -1,15 +1,10 @@
 # :smile_cat: Peter #Peter890206
+Hi, I'm Peter from Tainan, Taiwan. 
+I am a master's student in the Department of Mechanical Engineering at National Cheng Kung University (NCKU), expecting to graduate around August or September 2024. 
 
-Welcome to my GitHub profile! Here’s a bit about me and my work:
+I have a keen interest in deep learning, and my thesis project focuses on using deep learning to track skin features in videos. I am dedicated to deepening my knowledge in areas that interest me and work diligently towards my goals.
 
-- 🔭 I’m currently working on analyzing Parkinson's disease patient motion using AI.
-- 🌱 I’m currently learning advanced techniques in computer vision and deep learning.
-- 👯 I’m looking to collaborate on innovative AI and deep learning projects.
-- 🤔 I’m looking for help with optimizing deep learning models for medical applications.
-- 💬 Ask me about AI, deep learning, Docker, or Python.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a tech enthusiast who loves solving complex problems with AI.
+I am an optimistic person who values good relationships with my colleagues.
 
 ## 🛠️ Skills and Expertise
 
