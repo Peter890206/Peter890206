@@ -1,4 +1,4 @@
-# Hi there, I'm Peter! 👋
+# :raising_hand: Peter
 
 Welcome to my GitHub profile! Here’s a bit about me and my work:
 
