@@ -1,4 +1,4 @@
-# :raising_hand: Peter
+# :smile_cat: Peter
 
 Welcome to my GitHub profile! Here’s a bit about me and my work:
 
